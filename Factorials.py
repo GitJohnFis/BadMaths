@@ -5,3 +5,4 @@ def factorial(n):
     for i in range (2, n + 1):
         product *= i
     return product
+#print (factorial(67))
